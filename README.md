@@ -13,13 +13,13 @@ A comprehensive monorepo implementation of a session-based web application. This
 Below are screenshots demonstrating the UI flows and Session Storage functionality:
 
 ### 1. Login Page & DevTools
-![Login UI & Credentials](screenshots/sc1.jpeg)
+![Login UI & Credentials](Screenshots/sc1.jpeg)
 
 ### 2. Session Token Storage
-![Session Storage & Protected Data](screenshots/sc2.jpeg)
+![Session Storage & Protected Data](Screenshots/sc2.jpeg)
 
 ### 3. Protected Dashboard & Access Granted
-![Dashboard & Logout Flow](screenshots/sc3.jpeg)
+![Dashboard & Logout Flow](Screenshots/sc3.jpeg)
 
 
 ## 🧩 Features Implemented
